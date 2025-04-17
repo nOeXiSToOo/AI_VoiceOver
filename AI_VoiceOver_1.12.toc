@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: VoiceOver Turtle -|cFF00FF00mDarkneo|r
+## Notes: Adds voiceovers to npcs.
+## Version: 1.4.3
+## SavedVariables: VoiceOverDB
+## X-Part-Of: VoiceOver
+
+1.12\embeds.xml
+addon.xml
